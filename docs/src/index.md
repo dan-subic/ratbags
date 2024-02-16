@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Documentation of the Ratbags! Adventure Game.
-actionText: Quick Start →
-actionLink: /guide/
+tagline: Website for the Ratbags! Adventure Game.
+actionText: SRD →
+actionLink: /srd/
 features:
 - title: Feature 1 Title
   details: Feature 1 Description

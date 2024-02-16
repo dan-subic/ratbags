@@ -34,12 +34,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'About',
+        link: '/about/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'SRD',
+        link: '/srd/'
       },
       {
         text: 'VuePress',
