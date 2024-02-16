@@ -1,0 +1,19 @@
+{
+  "name": "ratbags",
+  "version": "0.0.1",
+  "description": "Documentation for the Ratbags! Adventure Game.",
+  "main": "index.js",
+  "authors": {
+    "name": "Dan Subic",
+    "email": "daniel.m.subic@gmail.com"
+  },
+  "repository": "https://github.com/dan-subic/ratbags/ratbags",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
