@@ -45,11 +45,19 @@ module.exports = {
     sidebar: {
       '/srd/': [
         {
-          title: 'Ratbags! SRD',
+          title: 'About',
+          path: '/srd/',
           collapsable: false,
-          /*children: [
-            '/chargen/'
-          ]*/
+        },
+        {
+          title: 'Character Creation',
+          path: '/srd/chargen',
+          collapsable: false,
+        },
+        {
+          title: 'Tables',
+          path: '/srd/tables',
+          collapsable: false,
         },
       ],
     }

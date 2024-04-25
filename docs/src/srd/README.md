@@ -1,16 +1,13 @@
 
 
-# Ratbags! System Reference Document (v.0.1.0)
-
-
-Ratbags! is a hack of [Cairn](https://cairnrpg.com/) by Yochai Gal. 
-It's a game about being weirdo adventurers in a fantasy setting.
-
-The full text is licensed under [C-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-See the [repo](https://github.com/dan-subic/ratbags).
+# About Ratbags!
 
 **Ratbags!** is an adventure game for one facilitator (the **Referee**) and at least one other player.
 Players act as weirdo adventurers exploring dark & mysterious dungeons filled with strange folk, hidden treasure, and unspeakable monstrosities.
+
+**Ratbags!** is a hack of [Cairn](https://cairnrpg.com/) by Yochai Gal. 
+The full text is licensed under [C-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+See the [repo](https://github.com/dan-subic/ratbags).
 
 **Ratbags!** was written with the following design philosophies in mind:
 
