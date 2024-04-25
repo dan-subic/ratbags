@@ -34,28 +34,23 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'About',
-        link: '/about/',
-      },
-      {
         text: 'SRD',
         link: '/srd/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Principles',
+        link: '/principles/'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/srd/': [
         {
-          title: 'Guide',
+          title: 'Ratbags! SRD',
           collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
+          /*children: [
+            '/chargen/'
+          ]*/
+        },
       ],
     }
   },
