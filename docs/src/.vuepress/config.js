@@ -59,6 +59,36 @@ module.exports = {
           path: '/srd/tables',
           collapsable: false,
         },
+        {
+          title: 'Basic Rules',
+          path: '/srd/basic_rules',
+          collapsable: false,
+        },
+        {
+          title: 'Magic',
+          path: '/srd/magic',
+          collapsable: false,
+        },
+        {
+          title: 'Dungeoneering',
+          path: '/srd/dungeoneering',
+          collapsable: false,
+        },
+        {
+          title: 'Equipment',
+          path: '/srd/equipment',
+          collapsable: false,
+        },
+        {
+          title: 'Bestiary',
+          path: '/srd/bestiary',
+          collapsable: false,
+        },
+        {
+          title: 'Rules Summary',
+          path: '/srd/rules_summary',
+          collapsable: false,
+        },
       ],
     }
   },
