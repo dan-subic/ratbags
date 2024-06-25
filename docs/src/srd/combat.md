@@ -15,7 +15,9 @@ The Referee will telegraph the most likely actions taken by NPCs or monsters. At
   <summary>
 Expand For Example
  </summary>
+
  _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+
 </details>
 
 ## Attacking & Damage
@@ -25,7 +27,9 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
   <summary>
 Expand For Example
  </summary>
+
  _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Referee rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+ 
 </details>
 
 ## Multiple Attackers  

@@ -15,6 +15,7 @@ Player Characters (PCs) have just three attributes:
   <summary>
 Expand For Example
  </summary>
+ 
  Ines rolls for her character's <b>STR</b>, resulting in a <b>2</b>, a <b>4</b>, and a <b>6</b>, totaling <b>12</b>. The next two ability rolls result in a <b>9</b> for <b>DEX</b> and a <b>13</b> for <b>WIL</b>. She decides to swap the <b>12</b> and the <b>9</b>, for a character with <b>9 STR</b>, <b>12 DEX</b> and <b>13 WIL</b>.
 
 </details>

@@ -15,6 +15,7 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
   <summary>
 Expand For Example
  </summary>
+ 
  _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
 </details>
