@@ -38,8 +38,8 @@ module.exports = {
         link: '/srd/'
       },
       {
-        text: 'Principles',
-        link: '/principles/'
+        text: 'Resources',
+        link: '/resources/'
       }
     ],
     sidebar: {
@@ -61,17 +61,22 @@ module.exports = {
         },
         {
           title: 'Basic Rules',
-          path: '/srd/basic_rules',
+          path: '/srd/basic-rules',
           collapsable: false,
         },
         {
-          title: 'Magic',
-          path: '/srd/magic',
+          title: 'Combat',
+          path: '/srd/combat',
           collapsable: false,
         },
         {
           title: 'Dungeoneering',
           path: '/srd/dungeoneering',
+          collapsable: false,
+        },
+        {
+          title: 'Magic',
+          path: '/srd/magic',
           collapsable: false,
         },
         {
@@ -86,9 +91,42 @@ module.exports = {
         },
         {
           title: 'Rules Summary',
-          path: '/srd/rules_summary',
+          path: '/srd/rules-summary',
           collapsable: false,
         },
+      ],
+      '/resources/': [
+        {
+          title: 'Resources',
+          path: '/resources/',
+          collapsable: false,
+        },
+        {
+          title: 'Principles for Players',
+          path: '/resources/principles-for-players',
+          collapsable: false,
+        },
+        {
+          title: 'Principles for Referees',
+          path: '/resources/principles-for-referees',
+          collapsable: false,
+        },
+        {
+          title: 'FAQ',
+          path: '/resources/faq',
+          collapsable: false,
+        },
+        {
+          title: 'Example of Play',
+          path: '/resources/example-of-play',
+          collapsable: false,
+        },
+        {
+          title: 'Magic Crafting',
+          path: '/resources/magic-crafting',
+          collapsable: false,
+        },
+        
       ],
     }
   },
