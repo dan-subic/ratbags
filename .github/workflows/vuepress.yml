@@ -32,6 +32,7 @@ jobs:
           node-version: 20
           # cache deps for yarn
           cache: yarn
+          cache-dependency-path: docs/yarn.lock
 
       # run build script
       - name: Build VuePress site
