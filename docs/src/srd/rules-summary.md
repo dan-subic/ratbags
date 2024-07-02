@@ -47,7 +47,7 @@ If an attack is **impaired** , the damage die is reduced to 1d4, regardless of w
 An attacked character can choose to **sunder** a worn helmet or shield to take 0 damage instead.
 
 **DAMAGE**  
-If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.
+If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](/srd/combat.html#scars-table) table.
 
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 

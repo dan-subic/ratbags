@@ -1,9 +1,9 @@
 
 # Character Creation
 ## Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+First, choose or roll your PC’s **name** and **background** from their respective [tables](/srd/tables.html#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](/srd/tables.html#character-traits-d10) tables.
 
 Finally, roll for their **age** (2d20+10).
 
@@ -21,7 +21,7 @@ Expand For Example
 </details>
 
 ## Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](#scars-table) table.
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/srd/combat.html#scars-table) table.
 
 ## Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
@@ -43,14 +43,12 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Wands**](#wands-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Wands**](/srd/tables.html#wands-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
 
 See the **Equipment List** for related armor, damage, and slot values.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
-
 ## Gifts and Mutations
-If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC is touched by the supernatural. Start with a **Gift** and a **Mutation**. See the [**tables**](#touched-by-the-supernatural) for each.
+If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC is touched by the supernatural. Start with a **Gift** and a **Mutation**. See the [**tables**](/srd/tables.html#gifts-mutations) for each.
 
 **Gifts** are supernatural abilities not afforded to most humans. They can be used at no cost, unless otherwise specified.
 
