@@ -34,11 +34,13 @@ jobs:
           cache: yarn
           cache-dependency-path: docs/yarn.lock
 
+      - name: Install dependencies
+        run: yarn install
+        working-directory: ./docs
+
       # run build script
       - name: Build VuePress site
-        run: |
-          yarn install
-          yarn build
+        run: yarn build
         working-directory: ./docs
       
       # please check out the docs of the workflow for more details
