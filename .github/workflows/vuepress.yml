@@ -42,6 +42,8 @@ jobs:
       - name: Build VuePress site
         run: yarn build
         working-directory: ./docs
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
       
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
