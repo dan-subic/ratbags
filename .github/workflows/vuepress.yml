@@ -53,12 +53,20 @@ jobs:
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
+        #uses: crazy-max/ghaction-github-pages@v4
+        #with:
           # deploy to gh-pages branch
-          target_branch: gh-pages
+        #  target_branch: gh-pages
           # deploy the default output dir of VuePress
-          build_dir: docs/src/.vuepress/dist
-        env:
+        #  build_dir: docs/src/.vuepress/dist
+        #env:
           # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: docs/src/.vuepress/dist # The folder the action should deploy.
+          TARGET_FOLDER: /
+          CLEAN: true # Automatically remove deleted files from the deploy branch
