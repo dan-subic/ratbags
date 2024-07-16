@@ -1,3 +1,7 @@
+---
+pageClass: table-page-class
+---
+
 # Character Creation Tables
 ## Name & Background (d20)
 
@@ -197,10 +201,15 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
 #### Weapons
 
-|                       |                               |                   |                  |                  |                               |                |
-| :-------------------: | :---------------------------: | :---------------: | :--------------: | :--------------: | :---------------------------: | :------------: |
-|          1-4          |              5-6              |       7-8         |       9-14       |       15-16      |         17-19                 |       20       |
-| Dagger, Cudgel, Staff | Sling, Darts, Throwing Knives | Longbow, Crossbow | Sword, Mace, Axe | Pistol, Revolver | Halberd, Warhammer, Battleaxe | Rifle, Musket  |
+|        |                                            |
+| :----: | ------------------------------------------ |
+| 1-4    | Dagger, Cudgel, Staff (d6)                 |
+| 5-6    | Sling, Darts, Throwing Knives (d4)         |
+| 7-8    | Longbow, Crossbow (d6, bulky)              |
+| 9-14   | Sword, Mace, Axe (d8)                      |
+| 15-16  | Pistol, Revolver (d6)                      |
+| 17-19  | Halberd, Warhammer, Battleaxe (d10, bulky) |
+| 20     | Rifle, Musket (d8, bulky)                  |
 
 #### Expeditionary Gear
 
