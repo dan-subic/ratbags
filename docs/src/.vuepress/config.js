@@ -42,6 +42,10 @@ module.exports = {
       {
         text: 'Resources',
         link: '/resources/'
+      },
+      {
+        text: 'Character Generator',
+        link: '/generator/'
       }
     ],
     sidebar: {
