@@ -1,7 +1,7 @@
 <template>
     <p>
       {{ msg }}
-      <roll-table :cols="4" :content="names.male" transpose/>
+      <roll-table :cols="4" :content="names.male" />
     </p>
 </template>
   

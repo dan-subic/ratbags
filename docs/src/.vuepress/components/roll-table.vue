@@ -23,9 +23,6 @@
         required: true,
         type: Array,
       },
-      transpose: {
-        type: Boolean,
-      },
     },
     data() {
       return {
@@ -39,11 +36,11 @@
         for (let row = 0; row < row_num; row++) {
           let row_content = []
           for (let col = 0; col < this.cols; col++) {
-            // Below only works for non-transposed case
             row_content.push(this.content[(row * this.cols) + col])
           }
           rows.push(row_content)
         }
+        // Need to transpose.
         return rows
       },
     },
