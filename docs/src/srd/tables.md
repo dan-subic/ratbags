@@ -6,63 +6,62 @@ pageClass: table-page-class
 ## Name & Background (d20)
 
 ### Female Names
-
-<roll-table-factory table="female-names"/>
+<table-switcher-linear table="female-names"/>
 
 ### Male Names
 
-<roll-table-factory table="male-names"/>
+<table-switcher-linear table="male-names"/>
 
 ### Surnames
 
-<roll-table-factory table="surnames"/>
+<table-switcher-linear table="surnames"/>
 
 ### Background
 
-<roll-table-factory table="backgrounds"/>
+<table-switcher-linear table="backgrounds"/>
 
 
 ## Character Traits (d10)
 
 ### Physique
 
-<roll-table-factory table="physique"/>
+<table-switcher-linear table="physique"/>
 
 ### Skin
 
-<roll-table-factory table="skin"/>
+<table-switcher-linear table="skin"/>
 
 ### Hair
 
-<roll-table-factory table="hair"/>
+<table-switcher-linear table="hair"/>
 
 ### Face
 
-<roll-table-factory table="face"/>
+<table-switcher-linear table="face"/>
 
 ### Speech
 
-<roll-table-factory table="speech"/>
+<table-switcher-linear table="speech"/>
 
 ### Clothing
 
-<roll-table-factory table="clothing"/>
+<table-switcher-linear table="clothing"/>
 
 ### Virtue
 
-<roll-table-factory table="virtue"/>
+<table-switcher-linear table="virtue"/>
 
 ### Vice
 
-<roll-table-factory table="vice"/>
+<table-switcher-linear table="vice"/>
 
 ### Reputation
 
-<roll-table-factory table="reputation"/>
+<table-switcher-linear table="reputation"/>
 
 ### Misfortune
 
-<roll-table-factory table="misfortune"/>
+<table-switcher-linear table="misfortune"/>
 
 
 ## Gifts & Mutations
@@ -90,7 +89,7 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 | 1         | 2         | 3         | 4         | 5         | 6         |
 | Weird     | Elemental | Monstrous | Animal    | Artificial | Alien    |
 
-<roll-table-factory table="mutation-parts"/>
+<table-switcher-linear table="mutation-parts"/>
 
 
 ## Starting Gear (d20)
@@ -123,15 +122,15 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
 #### Expeditionary Gear
 
-<roll-table-factory table="gear"/>
+<table-switcher-linear table="gear"/>
 
 #### Tools
 
-<roll-table-factory table="tools"/>
+<table-switcher-linear table="tools"/>
 
 #### Trinkets (light)
 
-<roll-table-factory table="trinkets"/>
+<table-switcher-linear table="trinkets"/>
 
 #### Bonus Item (roll on table indicated)
 
@@ -142,4 +141,4 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
 #### Wands (d100)
 
-<roll-table-factory table="wands"/>
+<table-switcher-linear table="wands"/>

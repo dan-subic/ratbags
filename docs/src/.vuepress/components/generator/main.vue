@@ -1,19 +1,14 @@
 <template>
     <p>
       {{ msg }}
-      <roll-table :cols="4" :content="names.male" />
     </p>
 </template>
   
 <script>
 
-import "../roll-table.vue"
-import RollTable from "../roll-table.vue";
-import {names} from "../../../.data/names.ts";
 
 export default {
   components: {
-    RollTable,
   },
   data() {
     return {
@@ -21,9 +16,6 @@ export default {
     }
   },
   computed: {
-    names() {
-      return names
-    },
   },
 }
 </script>

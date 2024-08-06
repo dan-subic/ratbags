@@ -1,19 +1,19 @@
 <template>
-  <roll-table :cols="cols" :content="content" />
+  <table-base-linear :cols="cols" :content="content" />
 </template>
 
 <script>
-import RollTable from "./roll-table.vue"
-import {names} from "../../.data/names.ts"
-import { backgrounds } from "../../.data/backgrounds.ts"
-import { traits } from "../../.data/traits.ts"
-import { mutations } from "../../.data/mutations.ts"
-import { items } from "../../.data/items.ts"
-import { wands } from "../../.data/wands.ts"
+import TableBaseLinear from "../base/linear.vue"
+import {names} from "../../../../.data/names.ts"
+import { backgrounds } from "../../../../.data/backgrounds.ts"
+import { traits } from "../../../../.data/traits.ts"
+import { mutations } from "../../../../.data/mutations.ts"
+import { items } from "../../../../.data/items.ts"
+import { wands } from "../../../../.data/wands.ts"
 
 export default {
   components: {
-    RollTable,
+    TableBaseLinear,
   },
   props: {
     table: {
