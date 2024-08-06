@@ -1,4 +1,12 @@
 export const mutations = {
+  type: [
+    "Weird",
+    "Elemental",
+    "Monstrous",
+    "Animal",
+    "Artificial",
+    "Alien",
+  ],
   parts: [
     "Eyes",
     "Teeth",

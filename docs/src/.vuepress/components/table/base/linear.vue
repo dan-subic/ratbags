@@ -1,3 +1,10 @@
+<!-- 
+    This component is for tables where every table element is unique.
+    Results are divided between multiple columns.
+    Results are read vertically down then horizontally across.
+-->
+
+
 <template>
   <div>
     <table>

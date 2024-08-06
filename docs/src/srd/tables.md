@@ -89,6 +89,8 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 | 1         | 2         | 3         | 4         | 5         | 6         |
 | Weird     | Elemental | Monstrous | Animal    | Artificial | Alien    |
 
+<table-switcher-compressed table="mutation-type"/>
+
 <table-switcher-linear table="mutation-parts"/>
 
 
