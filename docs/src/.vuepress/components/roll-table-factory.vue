@@ -3,10 +3,13 @@
 </template>
 
 <script>
-import RollTable from "./roll-table.vue";
-import {names} from "../../.data/names.ts";
-import { backgrounds } from "../../.data/backgrounds.ts";
-import { traits } from "../../.data/traits.ts";
+import RollTable from "./roll-table.vue"
+import {names} from "../../.data/names.ts"
+import { backgrounds } from "../../.data/backgrounds.ts"
+import { traits } from "../../.data/traits.ts"
+import { mutations } from "../../.data/mutations.ts"
+import { items } from "../../.data/items.ts"
+import { wands } from "../../.data/wands.ts"
 
 export default {
   components: {
@@ -94,6 +97,31 @@ export default {
       case 'misfortune': {
         this.content = traits.misfortune
         this.cols = 2
+        break
+      }
+      case 'mutation-parts': {
+        this.content = mutations.parts
+        this.cols = 4
+        break
+      }
+      case 'gear': {
+        this.content = items.gear
+        this.cols = 4
+        break
+      }
+      case 'tools': {
+        this.content = items.tools
+        this.cols = 4
+        break
+      }
+      case 'trinkets': {
+        this.content = items.trinkets
+        this.cols = 4
+        break
+      }
+      case 'wands': {
+        this.content = wands
+        this.cols = 4
         break
       }
     }
