@@ -46,11 +46,11 @@ export default {
       for (let col = 0; col < this.cols; col++) {
         for (let row = 0; row < row_num; row++) {
           // Fill matrix with indices
-          const index = 1 + col + (col * this.cols) + row
-          rows_matrix[row][col * 2] = index
+          const index = (col * row_num) + row
+          rows_matrix[row][col * 2] = index + 1
 
           // Fill matrix with content
-          rows_matrix[row][col * 2 + 1] = this.content[index - 1]
+          rows_matrix[row][col * 2 + 1] = this.content[index]
         }
       }
       return rows_matrix
