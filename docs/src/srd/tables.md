@@ -93,29 +93,15 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
 #### Armor
 
-|       |            |           |       |
-| :---: | :--------: | :-------: | :---: |
-|  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+<table-switcher-compressed table="armor"/>
 
 #### Helmets & Shields
 
-|                   |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+<table-switcher-compressed table="helmets-shields"/>
 
 #### Weapons
 
-|        |                                            |
-| :----: | ------------------------------------------ |
-| 1-4    | Dagger, Cudgel, Staff (d6)                 |
-| 5-6    | Sling, Darts, Throwing Knives (d4)         |
-| 7-8    | Longbow, Crossbow (d6, bulky)              |
-| 9-14   | Sword, Mace, Axe (d8)                      |
-| 15-16  | Pistol, Revolver (d6)                      |
-| 17-19  | Halberd, Warhammer, Battleaxe (d10, bulky) |
-| 20     | Rifle, Musket (d8, bulky)                  |
+<table-switcher-compressed table="weapons"/>
 
 #### Expeditionary Gear
 
@@ -131,10 +117,7 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
 #### Bonus Item (roll on table indicated)
 
-|                  |                    |                 |           |
-| :--------------: | :----------------: | :-------------: | :-------: |
-|       1-5        |        6-13        |      14-17      |   18-20   |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon |   Wand    |
+<table-switcher-compressed table="bonus-item"/>
 
 #### Wands (d100)
 
