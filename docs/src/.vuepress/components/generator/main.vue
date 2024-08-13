@@ -195,3 +195,18 @@ export default {
   },
 }
 </script>
+
+<style lang="stylus">
+
+
+  button 
+    margin-top 2rem
+    float right
+    padding 0.5rem
+    background-color $bgColourAlt;
+    color $textColor
+    font-size 1rem
+    border 2px solid $borderColor
+    border-radius 6px
+    cursor pointer
+</style>
