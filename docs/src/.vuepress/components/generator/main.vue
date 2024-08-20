@@ -1,5 +1,6 @@
 <template>
   <div>
+    <generator-rerollable :str="'blah'" @click="generate_all()"/>
     <h2>Traits</h2>
     <div>Your name is {{ name }}. You are {{ age }} years old.</div>
 

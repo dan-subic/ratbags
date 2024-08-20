@@ -3,9 +3,9 @@
 ## Name, Background & Traits
 First, choose or roll your PC’s **name** and **background** from their respective [tables](/srd/tables.html#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](/srd/tables.html#character-traits-d10) tables.
+Next, choose or roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](/srd/tables.html#character-traits-d10) tables.
 
-Finally, roll for their **age** (2d20+10).
+Finally, choose or roll for their **age** (2d20+10).
 
 ## Ability Scores  
 Player Characters (PCs) have just three attributes:  
