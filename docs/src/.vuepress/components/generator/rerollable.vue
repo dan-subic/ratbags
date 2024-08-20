@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <span>
     <span @click="$emit('click')">{{ str }} <font-awesome-icon icon="fa-solid fa-arrows-rotate"></font-awesome-icon></span>
-  </div>
+  </span>
 </template>
 
 <script>

@@ -1,8 +1,8 @@
 <template>
   <div>
-    <generator-rerollable :str="'blah'" @click="generate_all()"/>
+    
     <h2>Traits</h2>
-    <div>Your name is {{ name }}. You are {{ age }} years old.</div>
+    <div>Your name is <generator-rerollable :str="name" @click="roll_name()"/>. You are {{ age }} years old.</div>
 
     <h3>Background</h3>
     <div>You were formerly {{ prepend_a_or_an(background) }}.</div>
@@ -97,13 +97,7 @@ export default {
     generate_all() {
       this.age = _.random(1, 10) + _.random(1, 10) + 10
 
-      let given_name
-      if (_.random()) { // Returns either 0 or 1
-        given_name = this.select_random_item(names.male, true)
-      } else {
-        given_name = this.select_random_item(names.female, true)
-      }
-      this.name = given_name + ' ' + this.select_random_item(names.surnames, true)
+      this.roll_name()
 
       this.background = this.select_random_item(backgrounds)
       this.physique = this.select_random_item(traits.physique)
@@ -182,6 +176,15 @@ export default {
 
         this.mutation = this.select_random_item(mutations.type, true) + " " + this.select_random_item(mutations.parts, true)
       }
+    },
+    roll_name() {
+      let given_name
+      if (_.random()) { // Returns either 0 or 1
+        given_name = this.select_random_item(names.male, true)
+      } else {
+        given_name = this.select_random_item(names.female, true)
+      }
+      this.name = given_name + ' ' + this.select_random_item(names.surnames, true)
     },
     prepend_a_or_an(word) {
       let prepend = "a"
