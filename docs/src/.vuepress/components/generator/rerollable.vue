@@ -10,7 +10,7 @@ export default {
   props: {
     str: {
       required: true,
-      type: String,
+      type: String | Number,
     },
   },
 }

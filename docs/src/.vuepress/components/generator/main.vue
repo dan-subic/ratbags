@@ -2,10 +2,10 @@
   <div>
     
     <h2>Traits</h2>
-    <div>Your name is <generator-rerollable :str="name" @click="roll_name()"/>. You are {{ age }} years old.</div>
+    <div>Your name is <generator-rerollable :str="name" @click="roll_name()"/>. You are <generator-rerollable :str="age" @click="roll_age()"/> years old.</div>
 
     <h3>Background</h3>
-    <div>You were formerly {{ prepend_a_or_an(background) }}.</div>
+    <div>You were formerly <generator-rerollable :str="prepend_a_or_an(background)" @click="roll_background()"/></div>
     <div>You have had the misfortune of being {{ misfortune }}.</div>
 
     <h3>Looks</h3>
@@ -95,11 +95,10 @@ export default {
         return _.lowerCase(item)
     },
     generate_all() {
-      this.age = _.random(1, 10) + _.random(1, 10) + 10
-
+      this.roll_age()
       this.roll_name()
 
-      this.background = this.select_random_item(backgrounds)
+      this.roll_background()
       this.physique = this.select_random_item(traits.physique)
       this.skin = this.select_random_item(traits.skin)
       this.hair = this.select_random_item(traits.hair)
@@ -185,6 +184,12 @@ export default {
         given_name = this.select_random_item(names.female, true)
       }
       this.name = given_name + ' ' + this.select_random_item(names.surnames, true)
+    },
+    roll_age() {
+      this.age = _.random(1, 20) + _.random(1, 20) + 10
+    },
+    roll_background() {
+      this.background = this.select_random_item(backgrounds)
     },
     prepend_a_or_an(word) {
       let prepend = "a"
