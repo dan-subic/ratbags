@@ -252,6 +252,11 @@ export default {
     border-radius 6px
     cursor pointer
     text-align right
+    transition background-color $transitionDuration linear
+  
+  button:hover
+    background-color $borderColor
+    transition background-color $transitionDuration linear
   
   .text-span
     display flex

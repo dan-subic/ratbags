@@ -19,5 +19,10 @@ export default {
 <style lang="stylus" scoped>
   span 
     color $borderColor
+    transition color $transitionDuration linear
     cursor pointer
+
+  span:hover
+    color $textColor
+    transition color $transitionDuration linear
 </style>
