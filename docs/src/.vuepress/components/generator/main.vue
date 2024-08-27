@@ -8,11 +8,11 @@
     <div>Your name is <generator-rerollable :str="name" @click="roll_name()"/>. You are <generator-rerollable :str="age" @click="roll_age()"/> years old.</div>
 
     <h3>Background</h3>
-    <div>You were formerly <generator-rerollable :str="prepend_a_or_an(background)" @click="roll_background()"/>.</div>
+    <div>You were formerly {{ a_or_an(background) }} <generator-rerollable :str="background" @click="roll_background()"/>.</div>
     <div>You have had the misfortune of being <generator-rerollable :str="misfortune" @click="roll_misfortune()"/>.</div>
 
     <h3>Looks</h3>
-    <div>You have <generator-rerollable :str="prepend_a_or_an(physique)" @click="roll_physique()"/> physique, with <generator-rerollable :str="skin" @click="roll_skin()"/> skin and a <generator-rerollable :str="face" @click="roll_face()"/> face.</div>
+    <div>You have {{ a_or_an(physique) }} <generator-rerollable :str="physique" @click="roll_physique()"/> physique, with <generator-rerollable :str="skin" @click="roll_skin()"/> skin and a <generator-rerollable :str="face" @click="roll_face()"/> face.</div>
     <div>Your clothing is <generator-rerollable :str="clothing" @click="roll_clothing()"/>, and your hair is <generator-rerollable :str="hair" @click="roll_hair()"/>.</div>
 
     <h3>Personality</h3>
@@ -226,12 +226,11 @@ export default {
     roll_misfortune() {
       this.misfortune = this.select_random_item(traits.misfortune)
     },
-    prepend_a_or_an(word) {
-      let prepend = "a"
+    a_or_an(word) {
       // Returns 'an' if input word starts with a vowel, and 'a' otherwise.
       if (_.includes("aeiou", word[0]))
-        prepend = "an"
-      return prepend + " " + word
+        return "an"
+      return "a"
     },
     roll_3d6() {
       return _.random(1, 6) + _.random(1, 6) + _.random(1, 6)
