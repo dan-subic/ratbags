@@ -1,6 +1,6 @@
 <template>
   <span>
-    <span @click="$emit('click')">{{ str }} <font-awesome-icon icon="fa-solid fa-arrows-rotate"></font-awesome-icon></span>
+    <span @click="$emit('click')">{{ str }}</span>
   </span>
 </template>
 
@@ -16,9 +16,7 @@ export default {
 }
 </script>
 
-<style lang="stylus">
-
-
+<style lang="stylus" scoped>
   span 
     color $borderColor
     cursor pointer

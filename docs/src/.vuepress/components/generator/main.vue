@@ -1,6 +1,9 @@
 <template>
   <div>
-    
+    <div class="info">
+      <span class="text-span">Click a highlighted trait to reroll it.</span>
+      <span class="button-span"><button @click="generate_all()">Reroll all <font-awesome-icon icon="fa-solid fa-arrows-rotate"></font-awesome-icon></button></span>
+    </div>
     <h2>Traits</h2>
     <div>Your name is <generator-rerollable :str="name" @click="roll_name()"/>. You are <generator-rerollable :str="age" @click="roll_age()"/> years old.</div>
 
@@ -13,7 +16,9 @@
     <div>Your clothing is <generator-rerollable :str="clothing" @click="roll_clothing()"/>, and your hair is <generator-rerollable :str="hair" @click="roll_hair()"/>.</div>
 
     <h3>Personality</h3>
-    You speak in a <generator-rerollable :str="speech" @click="roll_speech()"/> manner. You are <generator-rerollable :str="vice" @click="roll_vice()"/>, yet <generator-rerollable :str="virtue" @click="roll_virtue()"/>. People think you are <generator-rerollable :str="reputation" @click="roll_reputation()"/>.
+    You speak in a <generator-rerollable :str="speech" @click="roll_speech()"/> manner.
+    You are <generator-rerollable :str="vice" @click="roll_vice()"/>, yet <generator-rerollable :str="virtue" @click="roll_virtue()"/>.
+    People think you are <generator-rerollable :str="reputation" @click="roll_reputation()"/>.
 
     <h2>Attributes</h2>
     <div>HP: {{ hp }}</div>
@@ -34,7 +39,7 @@
     <div>Mutation: {{ mutation }}</div>
 
 
-    <button @click="generate_all()">Reroll all</button>
+    
   </div>
 </template>
   
@@ -235,12 +240,10 @@ export default {
 }
 </script>
 
-<style lang="stylus">
+<style lang="stylus" scoped>
 
 
   button 
-    margin-top 2rem
-    float right
     padding 0.5rem
     background-color $bgColourAlt;
     color $textColor
@@ -248,4 +251,22 @@ export default {
     border 2px solid $borderColor
     border-radius 6px
     cursor pointer
+    text-align right
+  
+  .text-span
+    display flex
+    align-items center
+
+  .button-span
+    align-self center
+    width 100%
+    display inlign-block
+    text-align right
+    flex 1
+    
+
+  .info
+    background-color $bgColourAlt;
+    padding 1rem
+    display flex
 </style>
