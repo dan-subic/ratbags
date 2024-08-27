@@ -21,18 +21,18 @@
     People think you are <generator-rerollable :str="reputation" @click="roll_reputation()"/>.
 
     <h2>Attributes</h2>
-    <div>HP: {{ hp }}</div>
-    <div>STR: {{ str }}</div>
-    <div>DEX: {{ dex }}</div>
-    <div>WIL: {{ wil }}</div>
+    <div><b>HP:</b> {{ hp }}</div>
+    <div><b>STR:</b> {{ str }}</div>
+    <div><b>DEX:</b> {{ dex }}</div>
+    <div><b>WIL:</b> {{ wil }}</div>
     
     <h2>Equipment</h2>
-    <div>Armor: {{ armor }}</div>
-    <div>Helmet/Shield?: {{ helmet_shield }}</div>
-    <div>Weapon: {{ weapon }}</div>
-    <div>Gear, tools, trinkets: {{ gear }}, {{ tool }}, {{ trinket }} (light)</div>
-    <div>Bonus item: {{ bonus }}</div>
-    <div>Starting supplies: {{ gold }}g, a torch, 3 rations (each light)</div>
+    <div><b>Armor:</b> {{ armor }}</div>
+    <div><b>Helmet/Shield?:</b> {{ helmet_shield }}</div>
+    <div><b>Weapon:</b> {{ weapon }}</div>
+    <div><b>Gear, tools, trinkets:</b> {{ gear }}, {{ tool }}, {{ trinket }} (light)</div>
+    <div><b>Bonus item:</b> {{ bonus }}</div>
+    <div><b>Starting supplies:</b> {{ gold }}g, a torch, 3 rations (each light)</div>
 
     <h2>Supernatural</h2>
     <div>Gift: {{ gift }}</div>
@@ -241,7 +241,8 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-
+  div
+    padding-bottom 0.25rem
 
   button 
     padding 0.5rem
