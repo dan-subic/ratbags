@@ -5,15 +5,15 @@
     <div>Your name is <generator-rerollable :str="name" @click="roll_name()"/>. You are <generator-rerollable :str="age" @click="roll_age()"/> years old.</div>
 
     <h3>Background</h3>
-    <div>You were formerly <generator-rerollable :str="prepend_a_or_an(background)" @click="roll_background()"/></div>
-    <div>You have had the misfortune of being {{ misfortune }}.</div>
+    <div>You were formerly <generator-rerollable :str="prepend_a_or_an(background)" @click="roll_background()"/>.</div>
+    <div>You have had the misfortune of being <generator-rerollable :str="misfortune" @click="roll_misfortune()"/>.</div>
 
     <h3>Looks</h3>
-    <div>You have {{ prepend_a_or_an(physique) }} physique, with {{ skin }} skin and a {{ face }} face.</div>
-    <div>Your clothing is {{ clothing }}, and your hair is {{ hair }}.</div>
+    <div>You have <generator-rerollable :str="prepend_a_or_an(physique)" @click="roll_physique()"/> physique, with <generator-rerollable :str="skin" @click="roll_skin()"/> skin and a <generator-rerollable :str="face" @click="roll_face()"/> face.</div>
+    <div>Your clothing is <generator-rerollable :str="clothing" @click="roll_clothing()"/>, and your hair is <generator-rerollable :str="hair" @click="roll_hair()"/>.</div>
 
     <h3>Personality</h3>
-    You speak in a {{ speech }} manner. You are {{ vice }}, yet {{ virtue }}. People think you are {{ reputation }}.
+    You speak in a <generator-rerollable :str="speech" @click="roll_speech()"/> manner. You are <generator-rerollable :str="vice" @click="roll_vice()"/>, yet <generator-rerollable :str="virtue" @click="roll_virtue()"/>. People think you are <generator-rerollable :str="reputation" @click="roll_reputation()"/>.
 
     <h2>Attributes</h2>
     <div>HP: {{ hp }}</div>
@@ -92,23 +92,23 @@ export default {
       if (keep_case)
         return item
       else
-        return _.lowerCase(item)
+        return item.toLowerCase()
     },
     generate_all() {
       this.roll_age()
       this.roll_name()
 
       this.roll_background()
-      this.physique = this.select_random_item(traits.physique)
-      this.skin = this.select_random_item(traits.skin)
-      this.hair = this.select_random_item(traits.hair)
-      this.face = this.select_random_item(traits.face)
-      this.speech = this.select_random_item(traits.speech)
-      this.clothing = this.select_random_item(traits.clothing)
-      this.virtue = this.select_random_item(traits.virtue)
-      this.vice = this.select_random_item(traits.vice)
-      this.reputation = this.select_random_item(traits.reputation)
-      this.misfortune = this.select_random_item(traits.misfortune)
+      this.roll_physique()
+      this.roll_skin()
+      this.roll_hair()
+      this.roll_face()
+      this.roll_speech()
+      this.roll_clothing()
+      this.roll_virtue()
+      this.roll_vice()
+      this.roll_reputation()
+      this.roll_misfortune()
 
       this.hp = _.random(1, 6)
       this.str = this.roll_3d6()
@@ -190,6 +190,36 @@ export default {
     },
     roll_background() {
       this.background = this.select_random_item(backgrounds)
+    },
+    roll_physique() {
+      this.physique = this.select_random_item(traits.physique)
+    },
+    roll_skin() {
+      this.skin = this.select_random_item(traits.skin)
+    },
+    roll_hair() {
+      this.hair = this.select_random_item(traits.hair)
+    },
+    roll_face() {
+      this.face = this.select_random_item(traits.face)
+    },
+    roll_clothing() {
+      this.clothing = this.select_random_item(traits.clothing)
+    },
+    roll_speech() {
+      this.speech = this.select_random_item(traits.speech)
+    },
+    roll_virtue() {
+      this.virtue = this.select_random_item(traits.virtue)
+    },
+    roll_vice() {
+      this.vice = this.select_random_item(traits.vice)
+    },
+    roll_reputation() {
+      this.reputation = this.select_random_item(traits.reputation)
+    },
+    roll_misfortune() {
+      this.misfortune = this.select_random_item(traits.misfortune)
     },
     prepend_a_or_an(word) {
       let prepend = "a"
