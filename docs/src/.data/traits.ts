@@ -24,7 +24,7 @@ export const traits = {
     "Weathered",
   ],
   hair: [
-    "Bald",
+    "Absent",
     "Braided",
     "Curly",
     "Filthy",
