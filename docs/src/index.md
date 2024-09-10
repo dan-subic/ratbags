@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+# heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Website for the Ratbags! Adventure Game.
 actionText: Read the rules →
 actionLink: /core-rules/
