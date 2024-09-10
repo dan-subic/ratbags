@@ -47,11 +47,11 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Re
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ## Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**character creation tables**](/srd/tables.html) to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**character creation tables**](/core-rules/tables.html) to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ## Wealth & Treasure
 The most common coin is the gold piece.
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
-Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.

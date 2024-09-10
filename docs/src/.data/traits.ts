@@ -12,7 +12,7 @@ export const traits = {
     "Towering",
   ],
   skin: [
-    "Birthmark",
+    "Birthmarked",
     "Dark",
     "Elongated",
     "Pockmarked",
@@ -24,7 +24,7 @@ export const traits = {
     "Weathered",
   ],
   hair: [
-    "Bald",
+    "Absent",
     "Braided",
     "Curly",
     "Filthy",

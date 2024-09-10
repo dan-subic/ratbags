@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Ratbags! SRD',
+  title: 'Ratbags! Core Rules',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -36,12 +36,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'SRD',
-        link: '/srd/'
+        text: 'Core Rules',
+        link: '/core-rules/'
       },
       {
-        text: 'Resources',
-        link: '/resources/'
+        text: 'Extras',
+        link: '/extras/'
       },
       {
         text: 'Character Generator',
@@ -49,87 +49,87 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/srd/': [
+      '/core-rules/': [
         {
           title: 'About',
-          path: '/srd/',
+          path: '/core-rules/',
           collapsable: false,
         },
         {
           title: 'Character Creation',
-          path: '/srd/chargen',
+          path: '/core-rules/chargen',
           collapsable: false,
         },
         {
           title: 'Tables',
-          path: '/srd/tables',
+          path: '/core-rules/tables',
           collapsable: false,
         },
         {
           title: 'Basic Rules',
-          path: '/srd/basic-rules',
+          path: '/core-rules/basic-rules',
           collapsable: false,
         },
         {
           title: 'Combat',
-          path: '/srd/combat',
+          path: '/core-rules/combat',
           collapsable: false,
         },
         {
           title: 'Dungeoneering',
-          path: '/srd/dungeoneering',
+          path: '/core-rules/dungeoneering',
           collapsable: false,
         },
         {
           title: 'Magic',
-          path: '/srd/magic',
+          path: '/core-rules/magic',
           collapsable: false,
         },
         {
           title: 'Equipment',
-          path: '/srd/equipment',
+          path: '/core-rules/equipment',
           collapsable: false,
         },
         {
           title: 'Bestiary',
-          path: '/srd/bestiary',
+          path: '/core-rules/bestiary',
           collapsable: false,
         },
         {
           title: 'Rules Summary',
-          path: '/srd/rules-summary',
+          path: '/core-rules/rules-summary',
           collapsable: false,
         },
       ],
-      '/resources/': [
+      '/extras/': [
         {
-          title: 'Resources',
-          path: '/resources/',
+          title: 'Extras',
+          path: '/extras/',
           collapsable: false,
         },
         {
           title: 'Principles for Players',
-          path: '/resources/principles-for-players',
+          path: '/extras/principles-for-players',
           collapsable: false,
         },
         {
           title: 'Principles for Referees',
-          path: '/resources/principles-for-referees',
+          path: '/extras/principles-for-referees',
           collapsable: false,
         },
         {
           title: 'FAQ',
-          path: '/resources/faq',
+          path: '/extras/faq',
           collapsable: false,
         },
         {
           title: 'Example of Play',
-          path: '/resources/example-of-play',
+          path: '/extras/example-of-play',
           collapsable: false,
         },
         {
           title: 'Magic Crafting',
-          path: '/resources/magic-crafting',
+          path: '/extras/magic-crafting',
           collapsable: false,
         },
         

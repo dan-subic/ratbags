@@ -20,7 +20,7 @@
     You are <generator-rerollable :str="vice" @click="roll_vice()"/>, yet <generator-rerollable :str="virtue" @click="roll_virtue()"/>.
     People think you are <generator-rerollable :str="reputation" @click="roll_reputation()"/>.
 
-    <h2>Attributes</h2>
+    <h2>Statistics</h2>
     <div><b>HP:</b> {{ hp }}</div>
     <div><b>STR:</b> {{ str }}</div>
     <div><b>DEX:</b> {{ dex }}</div>
