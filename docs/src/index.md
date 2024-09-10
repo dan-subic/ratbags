@@ -6,7 +6,7 @@ actionText: Read the rules →
 actionLink: /core-rules/
 features:
 - title: Fiction First
-  details: In Ratbags!, the fiction trumps all. Players can reason about the world around them, without number-crunching or referencing pages of rules.
+  details: In Ratbags!, the fiction is all-important. Players can reason about the world around them, without number-crunching or referencing rules text.
 - title: Challenge Second
   details: Ratbags! tries to present the players with challenging problems requiring creative solutions. Antics are encouraged.
 - title: Accessible to New Players
