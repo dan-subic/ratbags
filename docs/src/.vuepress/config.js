@@ -81,6 +81,11 @@ module.exports = {
           collapsable: false,
         },
         {
+          title: 'Advancement',
+          path: '/core-rules/advancement',
+          collapsable: false,
+        },
+        {
           title: 'Magic',
           path: '/core-rules/magic',
           collapsable: false,
