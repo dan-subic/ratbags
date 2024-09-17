@@ -32,11 +32,11 @@ Some materials interact with magic in special ways. They are usually more effect
 
 ### Liquids
 
-**Phlogiston** and **Yliaster** are made of liquefied spirits. They enhance whatever they come in contact with- magical effects included.
+**Yliaster** and **Phlogiston** are made of liquefied spirits. They enhance whatever they come in contact with- magical effects included.
 
-Both are octarine in colour. **Plogiston** has an oily texture, while **Yliaster** is perpetually frothing.
+Both are octarine in colour. **Yliaster** has an oily texture, while **Phlogiston** is perpetually frothing.
 
-**Phlogiston** enhances durability and longevity. **Yliaster** enhances potency, though only briefly. The effects of Phlogiston and Yliaster cancel each other out.
+**Yliaster** enhances durability and longevity. **Phlogiston** enhances potency, though only briefly. The effects of Phlogiston and Yliaster cancel each other out.
 
 Both liquids evaporate rapidly, unless kept in a lead container.
 
