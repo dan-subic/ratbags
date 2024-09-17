@@ -42,7 +42,7 @@ No one can have more than 3 Armor.
 
 **Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack has a **bonus**, the attacker rolls an extra die. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 An attacked character can choose to **sunder** a worn helmet or shield to take 0 damage instead.
 
