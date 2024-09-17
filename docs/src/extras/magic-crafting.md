@@ -7,7 +7,7 @@
 | ------------ | --------------------------------------------------------------- |
 | Magic item   | An object to enchant, a soul                                    |
 | Relic        | An object to enchant, a willing spirit, a deal with said spirit |
-| Potion       | Matter from creatures/magic items, spirit essence               |
+| Potion       | Matter from creatures/magic items, Yliaster                     |
 | Magic tattoo | A soul in quicksilver, a body part to tattoo, a tattoo design   |
 
 ## Determining Effects

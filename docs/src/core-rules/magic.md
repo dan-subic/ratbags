@@ -22,13 +22,24 @@ Anyone can cast a spell by holding a Wand, pointing at a target, and focusing. T
 ## Magical Materials
 Some materials interact with magic in special ways. They are usually more effective the more ephemeral the magical effect is. Some of the most well-known of these materials are described below.
 
+### Metals
+
 **Gold** attracts magical effects & spirits. Spells may redirect to hit targets made of gold.
 
 **Silver** repels magical effects & spirits. Spells may try to avoid targets made of silver. Some magical creatures are particularly harmed by silver.
 
 **Lead** blocks magical effects & spirits. Ghosts, divination, and similar effects have difficulty passing through leaden barriers.
 
-**Spirit Essence** enhances magical effects, and the effects of other magical materials. It is made of liquefied souls, and evaporates rapidly unless stored in a lead container.
+### Liquids
+
+**Phlogiston** and **Yliaster** are made of liquefied spirits. They enhance whatever they come in contact with- magical effects included.
+
+Both are octarine in colour. **Plogiston** has an oily texture, while **Yliaster** is perpetually frothing.
+
+**Phlogiston** enhances durability and longevity. **Yliaster** enhances potency, though only briefly. The effects of Phlogiston and Yliaster cancel each other out.
+
+Both liquids evaporate rapidly, unless kept in a lead container.
+
 
 ## 100 Spells
 
