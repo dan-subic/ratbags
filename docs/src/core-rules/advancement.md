@@ -2,15 +2,29 @@
 
 ## Triggers
 
-At the end of each session, the Referee asks each player the following.
+At the end of each session, the Referee addresses the table.
 
-Did your character...
-* Show a focused, consistent pattern of behavior around a single objective or course of action?
-* Take an obvious risk with potentially serious consequences, especially when the outcome is unknown?
-* Interact with a unique item, creature, or entity?
+> Reflect on the session. Did any of the PCs do any of the following?
+> * Show a pattern of behaviour (possibly across sessions & culminating in something significant)
+> * Take an obvious risk (especially if the outcome was unknown)
+> * Interact with something unique (an item, creature, or entity)
 
-If 2/3 of the above happened, that character gets weirder, in a way determined by the Referee.
+If a PC did 2 of the above, and they were linked, the Referee may declare that they **advance**.
+A PC that **advances** gets weirder, in a way determined By the Referee but influenced by the character's experience.
+The change should include both new (or enhanced) abilities and physical changes.
 
+<details markdown="block">
+  <summary>
+Expand For Examples
+ </summary>
+ 
+ _Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. , the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was bound to the god, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster’s neck after an impromptu dive in a raging river._ (risk + unique entity)
+
+ _At long last, Oxrable Kinter (or Ox) had finally defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Spirit Siphon to pull the prone man’s consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to drink the man’s spirit. The Referee called for a WIL save to overcome Tibor’s powerful essence: a success! The Warden then asked the player to reroll Ox’s Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer’s dormant tendencies within his psyche._ (pattern of behaviour + risk + unique person)
+
+_Throughout her adventures, Hazel made frequent use of a Control Plants Wand she’d “borrowed” from the abbey where she grew up. On one occasion, she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature’s strengths against it, Hazel’s allies gathered around her while as she used the wand. The Warden then asked for a WIL save, as she was trying to stretch the limits of the spell. A success! The Referee declared that the wand merges with Hazel's hand, making it an intrinsic part of Hazel going forward._ (pattern of behaviour + unique item)
+
+</details>
 
 ## Alternate
 
