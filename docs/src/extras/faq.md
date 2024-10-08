@@ -2,7 +2,7 @@
 # Frequently Asked Questions
 
 ## Introduction
-Below are a few answers to some of the most commonly asked questions from folks new to Cairn. They should apply equally to players of Obelisk.
+Below are a few answers to some of the most commonly asked questions from folks new to Ratbags!.
 Please refer to the [Core Rules](/core-rules/) while reading the following, particularly with regards to [**saves**](/core-rules/basic-rules.html#saves) and [combat](/core-rules/combat.html).
 
 **Keep the following in mind when reading the example text!**  
@@ -53,7 +53,7 @@ Expand For Example
 </details>
 
 ## When should combat break out?
-**Cairn** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
+**Ratbags!** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
 
 <details markdown="block">
   <summary>
@@ -85,7 +85,7 @@ Expand For Example
 </details>
 
 ## How is turn order decided?
-Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
+Some games rely on "Initiative" to determine who goes first when combat begins. In **Ratbags!**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
 
 <details markdown="block">
   <summary>
@@ -266,133 +266,5 @@ Expand For Example
  **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
 
  **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
-
-</details>
-
-## How do PCs advance without things like levels or XP?
-In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/core-rules/combat.html#scars)), as well as through events happening solely in the fiction.
-
-**The Warden should consider the following when awarding non-mechanical growth to PCs:**
-- Growth should be tied to a _specific_ experience occurring in the fiction.
-- It is more important for a PC to grow more _interesting_ than more skilled or capable.
-- PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
-- There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
-- Growth occurs _while things are happening_, not just after the PC has rested.
-- Training & Specialization should be tied to quests and character growth as much as possible.
-
-**A Few Examples of Training & Specialization:**
-- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow gain +d8.
-- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use it the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
-- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
-- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
-- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
-
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
-
-  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
-
-  **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
-
-  **Warden**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
-
-  **Esther**: _"How dangerous do we think it would be to cross that way?"_
-
-  **Warden**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
-
-  **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
-
-  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
-
-  **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
-
-  **Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
-
-  **Warden**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
-
-  **Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
-
-  **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
-
-  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
-
-  **Esther**: _"Uh... Can I feel them?"_
-
-  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
-
-  **Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
-
-  **Warden**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
-
-  **Barry**: _"I warn her to pull back."_
-
-  **Esther**: _"Can I outrun this thing?"_
-
-  **Warden**: _"Hmm... You'd have to make a DEX save."_
-
-  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
-
-  **Warden**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
-
-  **Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
-
-  **Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
-
-  **Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
-
-  **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
-
-  **Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
-
-  **Warden**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
-
-  **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
-
-  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see the into the river."_
-
-  **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
-
-  **Warden**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
-
-  **Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
-
-  **Warden**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
-
-  **Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
-
-  **Warden**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
-
-  **Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
-
-  **Warden**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
-
-  **Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
-
-  **Warden**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
-
-  **Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
-
-  **Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
-
-  **Warden**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
-
-  **Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
-
-  **Warden**: _"Unless you've got a better idea, yes."_
-
-  **Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
-
-  **Barry**: _"Done. Now what?"_
-
-  **Warden**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
-
-  **Esther**: _"Wait, can I make light now? Am I a human torch?"_
-
-  **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
-
-  **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
 
 </details>
