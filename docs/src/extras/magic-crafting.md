@@ -1,7 +1,7 @@
 
 # Magic Crafting
 
-In Ratbags!, PCs can make new magic items, known as Crafts.
+In Ratbags!, PCs can make new magic items, known as _Crafts_.
 
 This requires:
 * A captured soul or spirit (the _Element_)
@@ -9,7 +9,18 @@ This requires:
 * A wizard's enchanting lab & expertise
 * Two weeks of time, to allow the enchantment to take
 
-The _Target_ can be any object small enough to hold. The _Target_ can also be a person's body part (including a PC's).
+The _Target_ can be any object small enough to hold. Wands are traditional. 
+
+The _Target_ can also be a person's body part (including a PC's). The upside is that a PC can get new powers without carrying an item around. The downsides are that the powers can't be loaned to anyone else, and if something goes wrong, the PC is stuck with the changes.
+
+## Costs
+
+A wizard will typically charge 300g to create a _Craft_ in their lab.
+
+A PC will need to supply their own _Target_ and _Element_- wizards are unlikely to give up their personal supply of spirits. 
+
+A Soul Catcher (1 slot, 120g) can be used to trap adjacent spirits. It looks like a leaden French press, with a gold-plated rod and a hatch on the bottom.
+
 
 ## Procedure
 
