@@ -1,7 +1,24 @@
 
 # Magic Crafting
 
-In Ratbags!, PCs can make new magic items, known as _Crafts_.
+In Ratbags!, PCs can make create magical stuff, collectively called _Crafts_.
+
+| Type of Craft | Definition                                 |
+| ------------- | ------------------------------------------ |
+| Permanent     | Magic item, enchanted body part, etc       |
+| Consumable    | Magic item with limited uses, e.g. potions |
+| Living        | Animate, bespoke creature                  |
+
+There's some other pieces of terminology that will be referred to in the subsequent sections. See the following glossary.
+ 
+| Term          | Definition                                                            |
+| ------------- | --------------------------------------------------------------------- |
+| _Target_      | The (othewise mundane) thing that's being enchanted                   |
+| _Element_     | The thing that's enchanting the _Target_                              |
+| _Power_       | The new ability the Target gains in the course of becoming a _Craft_  |
+| _Catch_       | A cost, drawback, or complication that comes with using the _Craft_   |
+
+## Permanent Crafts
 
 This requires:
 * A captured soul or spirit (the _Element_)
