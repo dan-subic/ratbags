@@ -35,7 +35,7 @@ When a _Craft_ is made, the Referee and the PC's player- the Crafter- go down th
 | d6 | Result |
 | -- | ------ |
 | 1  | The _Element_ was more powerful than anyone anticipated. The Referee makes both the _Power_ and the _Catch_ greater. |
-| 2  | The _Craft_ also gains a personality, appropriate to the _Element_ used to enchant it. It has a desire, which is not trivial to satisfy. While the _Craft's_ wielder is pursuing that desire, the _Power_ is greater. While the _Craft_ is denied its desire, the _Catch_ is greater. | 
+| 2  | The _Craft_ also gains a desire, appropriate to the _Element_ used to enchant it, and not trivial to satisfy. While the _Craft's_ wielder is pursuing that desire, the _Power_ is greater. While the _Craft_ is denied its desire, the _Catch_ is greater. | 
 | 3  | The _Element_ was contaminated. The player to the Crafter's left names the last weird thing the PCs encountered. This is a second _Element_ of the _Craft_. The Referee asks the player to the _Crafter's_ right- "What also happens when the _Craft's_ _Power_ is activated?" The Referee makes the _Catch_ greater. |
 | 4-6 | Nothing. It turned out just the way you thought it would! |
 
@@ -79,7 +79,7 @@ Alice has decided to enchant a pair of boots with the soul of a vampire. Bob, th
 
 **Bob**: "I'm sure you'll find a good use for them. Ok, Alice, last step- roll a d6 for me."
 
-**Alice**: "... I got a 2. So that means the boots have a personality and a desire."
+**Alice**: "... I got a 2. So that means the boots have a desire."
 
 **Bob**: "Oooh! Well obviously, the boots have a desire to drink human blood."
 
