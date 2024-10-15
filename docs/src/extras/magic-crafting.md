@@ -1,101 +1,100 @@
 
 # Magic Crafting
 
-## Requirements
+In Ratbags!, PCs can make new magic items, known as _Crafts_.
 
-| Category     | Components                                                      |
-| ------------ | --------------------------------------------------------------- |
-| Magic item   | An object to enchant, a soul                                    |
-| Relic        | An object to enchant, a willing spirit, a deal with said spirit |
-| Potion       | Matter from creatures/magic items, Yliaster                     |
-| Magic tattoo | A soul in quicksilver, a body part to tattoo, a tattoo design   |
+This requires:
+* A captured soul or spirit (the _Element_)
+* Something to enchant (the _Target_)
+* A wizard's enchanting lab & expertise
+* Two weeks of time, to allow the enchantment to take
 
-## Determining Effects
+The _Target_ can be any object small enough to hold. Wands are traditional. 
 
-When a player wants to create a magic item, potion, new magical power from a tattoo, etc, use the following process to determine the magical effect.
+The _Target_ can also be a person's body part (including a PC's). The upside is that a PC can get new powers without carrying an item around. The downsides are that the powers can't be loaned to anyone else, and if something goes wrong, the PC is stuck with the changes.
 
-### Identify components & consider themes
+## Costs
 
-Identify what components make up the magic being crafted. Refer to the Requirements table above.
-The player and the Referee should then discuss the different elements, themes, and associations of each of the components identified in the previous step. Take special note of any commonalities, parallels, or contradictions between the different components.
+A wizard will typically charge 300g to create a _Craft_ in their lab.
 
-_Note: It may be tempting to skip this step if it seems obvious what the magical effect should be. For example, if you have a snake spirit and you're enchanting a sword, you might immediately think of a venomous sword. However, the magical effect may be changed by Unexpected Factors before the effect is finalised, and it will be useful to revisit elements & themes for that._
+A PC will need to supply their own _Target_ and _Element_- wizards are unlikely to give up their personal supply of spirits. 
 
-<details markdown="block">
-  <summary>
-Expand For Example
-  </summary>
+A Soul Catcher (1 slot, 120g) can be used to trap adjacent spirits. It looks like a leaden French press, with a gold-plated rod and a hatch on the bottom.
 
-Suppose Alice has got a hold of the soul of a vampire, and wants to use it to get a magic tattoo. She settles on a tattoo on the hand, with a "wagon wheel" design for reasons personal to her character.
 
-Alice and her Referee Bob go through each of these components and list the elements of each. 
+## Procedure
 
-For the vampire soul, it's a staightforward process. They list the typical vampire powers that we're all familiar with: blood-sucking, turning into a bat, control over bats & wolves, hypnotism, enhanced strength, walking on walls, and being able to turn other people into vampires. They list vampire weaknesses: sunlight, garlic, holy symbols, wooden stakes, and the inability to cross running water or enter a residence without an invitation. They also note the vampire's general association with the night, undeath, and bats. 
+When a _Craft_ is made, the Referee and the PC's player- the Crafter- go down the following list.
 
-For the hand as the location of the tattoo, Alice and Bob have to consider things more abstractly. They note that the hand is used to wield tools, and as such is far more active than passive- perhaps moreso than any other part of the body. The hand can point, indicate, and signal. The hand can grab and grasp, but it can also strike with a punch, slap or fingernail gouge. Finally, they note that the hand is the primary way we access the sense of touch.
-Next, Alice and Bob come to the wagon wheel. They note the shape of the wheel- circular, with spokes radiating from a central point. The wheel is constructed rather than natural, and it requires roads to function properly. Wheels are associated with movement & transport.
+1. The Referee and the Crafter agree on what the _Element_ and the _Target_ are.
+2. The Referee asks the Crafter- "What new _Power_ does the _Target_ gain?" The Referee can veto.
+3. The Referee asks the player to the Crafter's left- "How does the _Target's_ appearance change?"
+4. The Crafter asks the Referee: "What's the _Catch_? A cost, a drawback, or a complication?"
+5. The Crafter rolls a d6 and consults the following table.
 
-Finally, Alice and Bob look for anything that might tie the different elements together.  It's not immediately obvious. There's something of a similarity between the spokes on the wheel & the fingers of the hand. Vampires are associated with bats, which "wheel" as they fly- there could be something there...
+| d6 | Result |
+| -- | ------ |
+| 1  | The _Element_ was more powerful than anyone anticipated. The Referee makes both the _Power_ and the _Catch_ greater. |
+| 2  | The _Craft_ also gains a desire, appropriate to the _Element_ used to enchant it, and not trivial to satisfy. While the _Craft's_ wielder is pursuing that desire, the _Power_ is greater. While the _Craft_ is denied its desire, the _Catch_ is greater. | 
+| 3  | The _Element_ was contaminated. The player to the Crafter's left names the last weird thing the PCs encountered. This is a second _Element_ of the _Craft_. The Referee asks the player to the _Crafter's_ right- "What also happens when the _Craft's_ _Power_ is activated?" The Referee makes the _Catch_ greater. |
+| 4-6 | Nothing. It turned out just the way you thought it would! |
 
-</details>
 
-### Determine a magical effect
+## Guidelines
 
-The player and the Referee should then agree on a magical effect that is appropriate to the elements identified in the previous step. Not every element needs to be used, but each component should be incorporated into the effect in some way.
+A _Power_ should be a notch or two weaker than the _Element_ it's sourced from.
 
-The effect should have power appropriate to the magical power of the components- if all the components are mundane, the effect should probably be weak. 
-
-If the effect is powerful, consider giving it an appropriate cost, drawback, activation condition, or other requirement.
-
-When in doubt, make the effect relate to the function of any physical component (i.e. if enchanting an object, make the effect related to the object's function. If getting a magic tattoo, make the effect related to the function of the body part being tattooed.) Above all, be creative.
+A _Catch_ should make using the _Power_ interesting to use, by having a meaningful cost or by making its user jump through hoops to get the full value from it.
 
 <details markdown="block">
   <summary>
 Expand For Example
-  </summary>
+ </summary>
+ 
+Alice has decided to enchant a pair of boots with the soul of a vampire. Bob, the Referee, goes down the list. Also at the table are Carol and Dave.
 
-Alice and Bob have another look over the elements identified previously. The combination of the wheel and vampire soul suggests something bat-related. The wheel is associated with circular movement, while the hand suggests an effect that is actively controlled. They settle on the following:
+**Bob**: "So, first up, what's the _Element_ and what's the _Target_?
 
-Alice's character gains the ability to produce a bat the size of a human from her outstretched hand. She can control the bat's flight path by pointing with one hand, and can give instructions to the bat via hand signals. The bat must continuously fly in a rough circle, with Alice's character as the focal point. If the bat is forced to stop, fly in a straight line, or otherwise fail to fly in a circular pattern, it vanishes in a cloud of fur.
+**Alice**: "The vampire is the _Element_ and the boots are the _Target_, right?"
 
-The requirement to move in a circular path is a decent restriction, so Bob decides there's no need for any additional cost.
+**Bob**: "Right. Next on the list, I ask you this- What new _Power_ does the _Target_ gain?"
 
-</details>
+**Alice**: "Ok, radical idea- what if anyone who wears the boots turns into a vampire?"
 
-### Roll for Unexpected Factors & Revise
+**Bob**: "Hmm, the _Power_ is meant to be weaker than the _Element_ is. Sorry, I think I should veto that."
 
-Roll on the following table and apply the result to the magical effect. Finalise the effect.
+**Alice**: "Haha, I was expecting that. I have a serious idea. Vampires can walk on walls and ceilings and stuff, right? What if the boots let the wearer do that?"
 
-| Roll | Factor |
-| ---- | ------ |
-| 1    | No change. |
-| 2    | De-emphasise a random element used in the effect, and introduce a new element from the same source. |
-| 3    | Increase the effect's power, but decrease its versatility or control.
-| 4    | Increase the effect's control, but decrease its power or versatility.
-| 5    | Increase the effect's versatility, but decrease its power or control.
-| 6    | Increase the effect's power, versatility or control, but introduce a drawback or curse.
-| 7    | Roll again, and apply the result twice.
-| 8    | Roll again twice. |
+**Bob**: "That sounds reasonable to me. Ok, next on the list- Carol, how does the _Target's_ appearance change?"
 
-*Power* is the effect's raw potency and scale. When increasing power, make the effect stronger or bigger, and do the inverse when decreasing power.
+**Carol**: "Black with bat wings, obviously!"
 
-*Versatility* is the effect's ability to apply to a variety of situations. When increasing versatility, introduce a "dial" to turn, or an additional effect that could have other applications. When decreasing versatility, reduce the options available when using the effect.
+**Bob**: "Obviously. Ok, Alice, you ask me the next question."
 
-*Control* is the user's ability to effectively bring the effect to bear. When increasing control, reduce the effect's conditions, restrictions, or costs. When decreasing control, do the inverse.
+**Alice**: "Oh right! Bob, what's the _Catch_? A cost, a drawback, or a complication?"
 
-<details markdown="block">
-  <summary>
-Expand For Example
-  </summary>
+**Bob**: "Well, boots that let you walk on walls and ceilings sound pretty powerful to me... Ah! Here's a drawback- they only work in the dark. Since they're vampire boots, after all."
 
-Alice rolls an 8, which makes her roll again twice. She then rolls a 2 and a 6. 
+**Alice**: "Drat. That does make them harder to use..."
 
-For the 2 result, Alice and Bob look over the main elements of the magical effect- the bat, the circular motion, and the control using the hand. Alice randomly determines that the element to de-emphasise is the control using the hand. Alice and Bob return to the elements for the hand identified earlier. They decide that it would be sensible to lean more on the "grabbing" aspect of the hand. The result would be a bat that acts more independently & is good at grabbing & carrying.
+**Bob**: "I'm sure you'll find a good use for them. Ok, Alice, last step- roll a d6 for me."
 
-For the 6 result, Alice randomly determines that the effect's versatility should be increased. Bob suggests that instead of a single large bat, Alice's character could choose to alternatively conjure a swarm of smaller bats. Alice then comes up with an appropriate drawback- when her character conjures the bat(s), her hand partially transforms into a bat wing, making the hand weak, generally unwieldy, and conspicuous. The transformation recovers over time. Bob likes the idea, and additionally suggests that if the effect is used multiple times before given the chance to recover, the transformation would worsen & incur damage to DEX, to prevent the effect from being abused.
+**Alice**: "... I got a 2. So that means the boots have a desire."
 
-The final result is as follows:
+**Bob**: "Oooh! Well obviously, the boots have a desire to drink human blood."
 
-Alice's character can conjure a large bat, or a small swarm of normal-sized bats. In either case, her bats are unusually good at grabbing and holding. When conjured, Alice's character can direct the bats on what to target; the bats act autonomously but follow this direction to the best of their ability. The bats must fly continuously in a roughly circular pattern, with Alice's character as the focal point; if they can't, they vanish. When Alice's character uses this ability, her hand partially transforms into an awkward bat wing. Further uses worsen the effect and incur 1d4 DEX damage. The hand will go back to normal after a good night's sleep.
+**Alice**: "Sure. What does that mean for the _Power_ and the _Catch_?"
+
+**Bob**: "Hmmmm, when the boots are thirsty the _Catch_ needs to be greater... in this case I think that means they only work in absolute darkness. But other times, they work in places that are just fairly dark."
+
+**Alice**: "Ok, let's work out the details on that later. What about the _Power_?"
+
+**Bob**: "I'm not sure about a straighforward way to make the _Power_ better. But I was thinking- these boots could be kinda dangerous to use, right? What if you were standing upside-down on a tall ceiling and got yanked down?"
+
+**Alice**: "Yeah, I hadn't thought about that..."
+
+**Bob**: "So what if, when you're pursuing the boots' desire for blood, you can also fall from heights safely? I think that qualifies as making the _Power_ greater."
+
+**Alice**: "Works for me."
 
 </details>
