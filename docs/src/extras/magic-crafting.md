@@ -18,9 +18,19 @@ There's some other pieces of terminology that will be referred to in the subsequ
 | _Power_       | The new ability the Target gains in the course of becoming a _Craft_  |
 | _Catch_       | A cost, drawback, or complication that comes with using the _Craft_   |
 
+## Overarching Guidelines
+
+A _Power_ should be a notch or two weaker than the _Element_ it's sourced from, unless it's the _Power_ of a Consumable _Craft_.
+
+A _Catch_ should make using the _Power_ interesting to use, by having a meaningful cost or by making its user jump through hoops to get the full value from it.
+
+
 ## Permanent Crafts
 
-This requires:
+### Requirements
+
+Creating a Permanent _Craft_ requires:
+
 * A captured soul or spirit (the _Element_)
 * Something to enchant (the _Target_)
 * A wizard's enchanting lab & expertise
@@ -30,16 +40,16 @@ The _Target_ can be any object small enough to hold. Wands are traditional.
 
 The _Target_ can also be a person's body part (including a PC's). The upside is that a PC can get new powers without carrying an item around. The downsides are that the powers can't be loaned to anyone else, and if something goes wrong, the PC is stuck with the changes.
 
-## Costs
+### Costs
 
-A wizard will typically charge 300g to create a _Craft_ in their lab.
+A wizard will typically charge 300g to create a Permanent _Craft_ in their lab.
 
 A PC will need to supply their own _Target_ and _Element_- wizards are unlikely to give up their personal supply of spirits. 
 
 A Soul Catcher (1 slot, 120g) can be used to trap adjacent spirits. It looks like a leaden French press, with a gold-plated rod and a hatch on the bottom.
 
 
-## Procedure
+### Procedure
 
 When a _Craft_ is made, the Referee and the PC's player- the Crafter- go down the following list.
 
@@ -47,7 +57,7 @@ When a _Craft_ is made, the Referee and the PC's player- the Crafter- go down th
 2. The Referee asks the Crafter- "What new _Power_ does the _Target_ gain?" The Referee can veto.
 3. The Referee asks the player to the Crafter's left- "How does the _Target's_ appearance change?"
 4. The Crafter asks the Referee: "What's the _Catch_? A cost, a drawback, or a complication?"
-5. The Crafter rolls a d6 and consults the following table.
+5. Check for a twist. The Crafter rolls a d6 and consults the following table.
 
 | d6 | Result |
 | -- | ------ |
@@ -57,11 +67,7 @@ When a _Craft_ is made, the Referee and the PC's player- the Crafter- go down th
 | 4-6 | Nothing. It turned out just the way you thought it would! |
 
 
-## Guidelines
-
-A _Power_ should be a notch or two weaker than the _Element_ it's sourced from.
-
-A _Catch_ should make using the _Power_ interesting to use, by having a meaningful cost or by making its user jump through hoops to get the full value from it.
+See example below.
 
 <details markdown="block">
   <summary>
@@ -115,3 +121,29 @@ Alice has decided to enchant a pair of boots with the soul of a vampire. Bob, th
 **Alice**: "Works for me."
 
 </details>
+
+
+### Relics
+
+A [**Relic**](/core-rules/magic.html#relics) is a special type of Permanent _Craft_. The main difference is how it's made- where other Permanent _Crafts_ are made in a wizarding lab, a **Relic** ia made by beseeching a powerful spirit.
+
+The requirements for creating a **Relic** are:
+* Something to enchant (the _Target_)
+* A shrine dedicated to a particular spirit
+* A convincing argument as to why the spirit should give you this boon
+
+All other requirements for ordinary Permanent _Crafts_ are waived.
+
+If a spirit chooses to grant you the boon of a **Relic**, the spirit itself is the _Element_. The spirit will be weakened while the **Relic** is away from the shrine; for this reason, the spirit will expect the **Relic** to be returned eventually.
+
+To create a **Relic**, follow the normal procedure for creating a Permanent _Craft_. Instead of rolling for a twist, treat it as if the Crafter had rolled a 2- thus, a **Relic** always has a desire.
+
+
+## Consumable Crafts
+
+TBD
+
+
+## Living Crafts
+
+TBD
