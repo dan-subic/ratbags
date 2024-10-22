@@ -51,7 +51,7 @@ A Soul Catcher (1 slot, 120g) can be used to trap adjacent spirits. It looks lik
 
 ### Procedure
 
-When a _Craft_ is made, the Referee and the PC's player- the Crafter- go down the following list.
+When a Permanent _Craft_ is made, the Referee and the PC's player- the Crafter- go down the following list.
 
 1. The Referee and the Crafter agree on what the _Element_ and the _Target_ are.
 2. The Referee asks the Crafter- "What new _Power_ does the _Target_ gain?" The Referee can veto.
@@ -146,4 +146,32 @@ TBD
 
 ## Living Crafts
 
-TBD
+The requirements & costs of making a Living _Craft_ are the same as for a Permanent _Craft_, except that the _Target_ must have legs, wings, or other means of locomotion. A corpse, carcass, or statue is traditional.
+
+### Control
+
+By default, the _Craft_ won't have any special allegiance to its creator. It's possible to imbue the _Craft_ with an impulse to obey individuals with a particular trait, depending on the additional requirement added to the _Target_. See the table.
+
+| Extra Requirement        | _Craft_ obeys anyone who...          |
+| ------------------------ | ------------------------------------ |
+| Someone's blood          | Resembles that someone               |
+| A distinctive scent      | Bears that scent                     |
+| Piece of a unique object | Bears that object                    |
+| Piece of clothing        | Wears that clothing                  |
+
+### Procedure
+
+When a Living _Craft_ is made, the Referee and the PC's player- the Crafter- go down the following list.
+
+1. The Referee and the Crafter agree on what the _Element_ and the _Target_ are.
+2. The Referee asks the Crafter- "What new _Power_ does the _Target_ gain?" The Referee can veto.
+3. The Referee asks the player to the Crafter's left- "How does the _Target's_ appearance change?"
+4. The Crafter asks the Referee: "What's the _Catch_? What unfortunate behaviour does the _Craft_ exhibit? An obsession, a habit, a fear?"
+5. Check for a twist. The Crafter rolls a d6 and consults the following table.
+
+| d6 | Result |
+| -- | ------ |
+| 1  | The _Element_ was more powerful than anyone anticipated. The Referee makes both the _Power_ and the _Catch_ greater. |
+| 2  | TBD | 
+| 3  | The _Element_ was contaminated. \[TBD\] |
+| 4-6 | Nothing. It turned out just the way you thought it would! |
