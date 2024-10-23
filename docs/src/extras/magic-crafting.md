@@ -3,11 +3,6 @@
 
 In Ratbags!, PCs can make create magical stuff, collectively called _Crafts_.
 
-| Type of Craft | Definition                                 |
-| ------------- | ------------------------------------------ |
-| Permanent     | Magic item, enchanted body part, etc       |
-| Consumable    | Magic item with limited uses, e.g. potions |
-| Living        | Animate, bespoke creature                  |
 
 There's some other pieces of terminology that will be referred to in the subsequent sections. See the following glossary.
  
@@ -138,40 +133,16 @@ If a spirit chooses to grant you the boon of a **Relic**, the spirit itself is t
 
 To create a **Relic**, follow the normal procedure for creating a Permanent _Craft_. Instead of rolling for a twist, treat it as if the Crafter had rolled a 2- thus, a **Relic** always has a desire.
 
+> ### Monsters
+> Wizards are able to create monsters, using a similar process to creating Crafts. 
+> 
+> No procedure for making a monster is outlined here. Not because they're incapable of it, but because it's less-than-ideal for PCs.
+> * Living creatures are necessarily more complex than inert magic items. As such, the procedure for creating monsters would be more complex.
+> * Created monsters can die, risking the player loses their investment.
+> * Managing a monster NPC entails extra logisitcal complexity at the table.
 
 ## Consumable Crafts
 
 TBD
 
 
-## Living Crafts
-
-The requirements & costs of making a Living _Craft_ are the same as for a Permanent _Craft_, except that the _Target_ must have legs, wings, or other means of locomotion. A corpse, carcass, or statue is traditional.
-
-### Control
-
-By default, the _Craft_ won't have any special allegiance to its creator. It's possible to imbue the _Craft_ with an impulse to obey individuals with a particular trait, depending on the additional requirement added to the _Target_. See the table.
-
-| Extra Requirement        | _Craft_ obeys anyone who...          |
-| ------------------------ | ------------------------------------ |
-| Someone's blood          | Resembles that someone               |
-| A distinctive scent      | Bears that scent                     |
-| Piece of a unique object | Bears that object                    |
-| Piece of clothing        | Wears that clothing                  |
-
-### Procedure
-
-When a Living _Craft_ is made, the Referee and the PC's player- the Crafter- go down the following list.
-
-1. The Referee and the Crafter agree on what the _Element_ and the _Target_ are.
-2. The Referee asks the Crafter- "What new _Power_ does the _Target_ gain?" The Referee can veto.
-3. The Referee asks the player to the Crafter's left- "How does the _Target's_ appearance change?"
-4. The Crafter asks the Referee: "What's the _Catch_? What unfortunate behaviour does the _Craft_ exhibit? An obsession, a habit, a fear?"
-5. Check for a twist. The Crafter rolls a d6 and consults the following table.
-
-| d6 | Result |
-| -- | ------ |
-| 1  | The _Element_ was more powerful than anyone anticipated. The Referee makes both the _Power_ and the _Catch_ greater. |
-| 2  | TBD | 
-| 3  | The _Element_ was contaminated. \[TBD\] |
-| 4-6 | Nothing. It turned out just the way you thought it would! |
