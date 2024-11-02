@@ -8,7 +8,7 @@ Wands may have an appearance and special properties indicative of the spell held
 Wands will attract the attention of those who seek the arcane power, and it is considered dangerous to display them openly.
 
 ## Casting Spells
-Anyone can cast a spell by holding a Wand, pointing at a target, and focusing. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Referee may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Wand, injury, and even death.
+Anyone can cast a spell by holding a Wand, pointing at a target, and focusing. They must then add a Fatigue to inventory, occupying one slot. 
 
 ## Relics
 **Relics** are items imbued with a magical power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:

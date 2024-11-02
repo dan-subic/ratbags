@@ -31,8 +31,6 @@ A moment's rest and a swig of water will restore lost HP, but may leave the part
 **WANDS**  
 Wands contain a single spell and take up one item slot. Anyone can cast a spell by holding a Wand in one hand, pointing at a target, and focusing. Casting a spell adds **Fatigue** to the PC's inventory.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
-
 **COMBAT**  
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
 
