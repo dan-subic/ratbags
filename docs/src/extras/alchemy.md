@@ -1,6 +1,6 @@
 # Alchemy
 
-_The system below is adapted from_ [Naively Simple Alchemy](https://foreignplanets.blogspot.com/2020/07/naively-simple-alchemy.html).
+_The system below is adapted from_ [Naively Simple Alchemy](https://foreignplanets.blogspot.com/2020/07/naively-simple-alchemy.html) by Rook.
 
 ## Requirements
 
@@ -56,8 +56,8 @@ See the below table for suggested scale of a potion's effects based on <ins>Pote
 
 | Potency  | Damage   | Area     | Range             | Duration         | 
 | -------- | -------- | -------- | ----------------- | ---------------- |
-| Mild     | 1d6      | Closet   | Within reach      | 1-10 rounds      |
-| Moderate | 1d8-1d10 | Room     | A stone's throw   | 10 mins - 1 hour |
+| Mild     | 1d4      | Closet   | Within reach      | 1-10 rounds      |
+| Moderate | 1d6-1d10 | Room     | A stone's throw   | 10 mins - 1 hour |
 | Strong   | 1d12     | Ballroom | An arrow's flight | 1 day - 1 month  |
 
 Ignore any categories that don't apply to the potion's effect. If multiple categories apply to a potion's effect, only apply <ins>Potency</ins> to one of them, or balance them. 
@@ -80,7 +80,7 @@ _Grass_ **Oil** = <ins>Wilt/Wilting</ins>
 
 _Grass_ **Powder** = <ins>Grass</ins>
 
-> #### Other Consumables
+> ### Other Consumables
 > Potions are the most popular type of magical consumable. Nonetheless, others exist.
 > 
 > There are analogous methods to create magical foods, drugs, and so on. These are left unstated for brevity; if the Referee wishes to include methods to allow players to create these, adapt the method for potionmaking outlined above.
