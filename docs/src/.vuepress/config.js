@@ -137,6 +137,11 @@ module.exports = {
           path: '/extras/magic-crafting',
           collapsable: false,
         },
+        {
+          title: 'Alchemy',
+          path: '/extras/alchemy',
+          collapsable: false,
+        },
         
       ],
     }
