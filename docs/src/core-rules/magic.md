@@ -28,7 +28,7 @@ Some materials interact with magic in special ways. They are usually more effect
 
 **Silver** repels magical effects & spirits. Spells may try to avoid targets made of silver. Some magical creatures are particularly harmed by silver.
 
-**Lead** blocks magical effects & spirits. Ghosts, divination, and similar effects have difficulty passing through leaden barriers.
+**Lead** blocks magical effects & spirits. Ghosts, divination, and similar effects have difficulty passing through leaden barriers. Lead dust can be tossed into the air to reveal invisible spirits.
 
 ### Liquids
 
