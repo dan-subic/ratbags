@@ -29,8 +29,8 @@ Prices are in gold pieces.
 
 | |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
+|Air Bladder                                  |5               |Large Sponge       |5         |
+|Bellows                                      |10              |Lead Dust          |20        |
 |Bedroll                                      |5               |Lens (light)       |10        |
 |Book                                         |50              |Lockpicks          |25        |
 |Bucket                                       |5               |Manacles           |10        |
@@ -47,14 +47,15 @@ Prices are in gold pieces.
 |Fire Oil                                     |10              |Rations (1 day, light)|3      |
 |Fishing Rod                                  |10              |Rope (25ft)        |5         |
 |Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack (light)       |5         |
+|Glue                                         |5               |Sack               |5         |
 |Gold or Silver Wire                          |100             |Shovel             |5         |
 |Grease                                       |10              |Soap (light)       |1         |
 |Grappling Hook                               |25              |Spike (light)      |1         |
 |Hammer                                       |5               |Spiked Boots (light)|5        |
 |Holy Water                                   |25              |Spyglass           |40        |
-|Horn (light)                                 |10              |Tar                |10        |
+|Horn                                         |10              |Tar                |10        |
 |Horse (+4 slots)                             |75              |Tent (fits 2 people, bulky)|20|
 |Hourglass                                    |50              |Torch              |1         |
-|Incense (light)                              |10              |Wagon (+8 slots, slow)|200    |
-|Ladder (bulky, 10ft)                         |10              |Yliaster           |75        |
+|Incense (light)                              |10              |Toxin              |10        |
+|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
+|Large Trap                                   |20              |Yliaster           |75        |
