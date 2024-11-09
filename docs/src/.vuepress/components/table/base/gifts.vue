@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <table>
-      <tbody >
+  <div class="table-div">
+    <table class="table-main">
+      <tbody class="table-body">
         <tr class="centred">
           <th>Lowest Ability Score</th>
           <th>1 HP</th>
@@ -60,6 +60,24 @@ export default {
 </script>
 
 <style lang="css">
+  .table-div {
+    height: 45rem;
+  }
+  .table-main {
+    overflow: visible;
+    position: relative;
+    margin: auto;
+  }
+  .table-body {
+    position: absolute;
+    top: -100%;
+    bottom: -100%;
+    left: -100%;
+    right: -100%;
+    max-width: 70rem;
+    margin: auto;
+  }
+
   .centred {
     text-align: center;
   }

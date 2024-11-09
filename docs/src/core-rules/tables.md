@@ -1,7 +1,3 @@
----
-pageClass: table-page-class
----
-
 # Character Creation Tables
 ## Name & Background (d20)
 
