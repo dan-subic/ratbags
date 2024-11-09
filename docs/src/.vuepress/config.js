@@ -81,6 +81,11 @@ module.exports = {
           collapsable: false,
         },
         {
+          title: 'Downtime',
+          path: '/core-rules/downtime',
+          collapsable: false,
+        },
+        {
           title: 'Magic',
           path: '/core-rules/magic',
           collapsable: false,

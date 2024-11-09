@@ -11,7 +11,7 @@ All Potions require 4 things:
 3. A **Catalyst**, which is consumed (light, provides <ins>potency</ins>)
 4. **Alchemical Equipment**, which is never consumed (bulky)
 
-A character can do 3 of the following as a Downtime Action:
+A character can do 3 of the following as a [**Downtime Action**](/core-rules/downtime.html):
 * Turn something into an **Oil** or a **Powder**
 * Create one potion
 
