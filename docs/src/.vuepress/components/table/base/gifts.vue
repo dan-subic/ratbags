@@ -64,7 +64,7 @@ export default {
     /* Centres the Gifts table. Only done on large screens which don't need to horizontally scroll to see the full table. */
 
     .table-div {
-      height: 45rem;
+      height: 50rem;
     }
     .table-main {
       overflow: visible;
