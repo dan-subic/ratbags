@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <table>
-      <tbody >
+  <div class="table-div">
+    <table class="table-main">
+      <tbody class="table-body">
         <tr class="centred">
           <th>Lowest Ability Score</th>
           <th>1 HP</th>
@@ -60,6 +60,30 @@ export default {
 </script>
 
 <style lang="css">
+  @media only screen and (min-width: 1440px) {
+    /* Centres the Gifts table. Only done on large screens which don't need to horizontally scroll to see the full table. */
+
+    .table-div {
+      height: 50rem;
+    }
+    .table-main {
+      overflow: visible;
+      position: relative;
+      margin: auto;
+    }
+    .table-body {
+      position: absolute;
+      top: -100%;
+      bottom: -100%;
+      left: -100%;
+      right: -100%;
+      max-width: 70rem;
+      margin: auto;
+    }
+  }
+
+  
+
   .centred {
     text-align: center;
   }
