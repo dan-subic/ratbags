@@ -6,12 +6,10 @@ Prices are in gold pieces.
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |15   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Shield (+1 Armor, can be sundered)                     |15   |
+|Helmet (+1 Armor)                                      |15   |
+|Gambeson (+1 Armor)                                    |20   |
+|Chainmail, Brigandine, Cuirass etc. (2 Armor, bulky)   |60   |
 
 ## Weapons
 
