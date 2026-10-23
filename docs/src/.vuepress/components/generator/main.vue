@@ -28,7 +28,7 @@
     
     <h2>Equipment</h2>
     <div><b>Armor:</b> {{ armor }}</div>
-    <div><b>Helmet/Shield?:</b> {{ helmet_shield }}</div>
+    <div><b>Helmet/Shield:</b> {{ helmet_shield }}</div>
     <div><b>Weapon:</b> {{ weapon }}</div>
     <div><b>Gear, tools, trinkets:</b> {{ gear }}, {{ tool }}, {{ trinket }} (light)</div>
     <div><b>Bonus item:</b> {{ bonus }}</div>
