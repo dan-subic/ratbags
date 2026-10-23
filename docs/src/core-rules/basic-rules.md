@@ -33,7 +33,7 @@ No one can have more than 3 Armor.
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 ## Sundering
-After damage is rolled, but before making any Critical Damage saves, an attacked character can choose to sunder a worn helmet or shield to take 0 damage instead. The item is permanently destroyed.
+After damage is rolled, but before making any Critical Damage saves, an attacked character can choose to sunder a worn shield to reduce the damage by 1d6. The shield is then destroyed.
 
 ## Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Referee may roll 2d6 and consult the following table:
