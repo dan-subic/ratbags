@@ -19,7 +19,7 @@ When a character reaches 8 XP, reset to zero XP and level up. Any excess XP roll
 ### Levelling Up
 
 When a character levels up, do the following:
-* If their HP is 1-4, increase HP by 2. Otherwise, increase HP by 1.
+* If their GD is 1-4, increase GD by 2. Otherwise, increase GD by 1.
 * Roll a d20 for STR, DEX, and WIL. If the result is higher than the maximum for that Attribute, increase the current & maximum for that Attribute by 1.
 
 

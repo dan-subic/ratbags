@@ -4,12 +4,12 @@
       <tbody class="table-body">
         <tr class="centred">
           <th>Lowest Ability Score</th>
-          <th>1 HP</th>
-          <th>2 HP</th>
-          <th>3 HP</th>
-          <th>4 HP</th>
-          <th>5 HP</th>
-          <th>6 HP</th>
+          <th>1 GD</th>
+          <th>2 GD</th>
+          <th>3 GD</th>
+          <th>4 GD</th>
+          <th>5 GD</th>
+          <th>6 GD</th>
         </tr>
         <tr v-for="(row, idx) of gifts">
           <td>{{ row_title(idx) }}</td>

@@ -14,27 +14,27 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 - Roll a d20 equal to or under an ability.
 - 1 is always a success, 20 is always a failure.
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after 10 minutes of rest.
+**GUARD**  
+**GD** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after about 10 minutes of rest.
 
 **INVENTORY**  
 PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot. **Bulky** items take up two slots and are awkward or difficult to carry. **Light** items can share a slot with one other item.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+Filling all ten item slots reduces a PC to 0 GD. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
 **DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**Deprived** PCs cannot recover GD. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
 **HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+A moment's rest and a swig of water will restore lost GD, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
 **WANDS**  
 Wands contain a single spell and take up one item slot. Anyone can cast a spell by holding a Wand in one hand, pointing at a target, and focusing. Casting a spell adds **Fatigue** to the PC's inventory.
 
 **COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's GD.
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Before calculating damage to GD, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
 
 No one can have more than 3 Armor.
 
@@ -46,6 +46,6 @@ An attacked character can choose to **sunder** a worn helmet or shield to take 0
 
 **DAMAGE**  
 
-Damage that reduces a target's HP below 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+Damage that reduces a target's GD below 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
