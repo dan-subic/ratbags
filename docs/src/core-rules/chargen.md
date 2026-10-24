@@ -20,15 +20,15 @@ Expand For Example
 
 </details>
 
-## Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**).
+## Guard  
+Roll 1d6 to determine your PC's starting **Guard** (GD), which reflects their ability to avoid damage in combat.
 
 ## Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot. Slots are abstract and can be rearranged per the Referee's discretion (to allocate extra slots to the body, for example).
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 GD.
 
 **Light** items take up a single slot, and may share a slot with one other item. Most items smaller than a dagger are light.
 

@@ -21,7 +21,7 @@
     People think you are <generator-rerollable :str="reputation" @click="roll_reputation()"/>.
 
     <h2>Statistics</h2>
-    <div><b>HP:</b> {{ hp }}</div>
+    <div><b>GD:</b> {{ gd }}</div>
     <div><b>STR:</b> {{ str }}</div>
     <div><b>DEX:</b> {{ dex }}</div>
     <div><b>WIL:</b> {{ wil }}</div>
@@ -70,7 +70,7 @@ export default {
       vice: '',
       reputation: '',
       misfortune: '',
-      hp: 0,
+      gd: 0,
       str: 0,
       dex: 0,
       wil: 0,
@@ -115,7 +115,7 @@ export default {
       this.roll_reputation()
       this.roll_misfortune()
 
-      this.hp = _.random(1, 6)
+      this.gd = _.random(1, 6)
       this.str = this.roll_3d6()
       this.dex = this.roll_3d6()
       this.wil = this.roll_3d6()
@@ -154,27 +154,27 @@ export default {
       } else {
         // Supernatural gift & mutation
         const lowest_score = _.min([this.str, this.dex, this.wil])
-        const hp_index = this.hp - 1
+        const gd_index = this.gd - 1
         switch(lowest_score) {
           case 3:
           case 4:
-            this.gift = gifts._3_4[hp_index]
+            this.gift = gifts._3_4[gd_index]
             break
           case 5:
-            this.gift = gifts._5[hp_index]
+            this.gift = gifts._5[gd_index]
             break
           case 6:
-            this.gift = gifts._6[hp_index]
+            this.gift = gifts._6[gd_index]
             break
           case 7:
-            this.gift = gifts._7[hp_index]
+            this.gift = gifts._7[gd_index]
             break
           case 8:
-            this.gift = gifts._8[hp_index]
+            this.gift = gifts._8[gd_index]
             break
           case 9:
           case 10:
-            this.gift = gifts._9_10[hp_index]
+            this.gift = gifts._9_10[gd_index]
             break
         }
 

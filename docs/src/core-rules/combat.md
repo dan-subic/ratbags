@@ -21,14 +21,14 @@ Expand For Example
 </details>
 
 ## Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's GD. Unarmed attacks always do 1d4 damage.
 
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
 
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Referee rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+ _The Wood Troll roars, swinging its club at Bea, who has 5 GD. The club does 1d10 damage and the Referee rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 GD remaining_.
  
 </details>
 
@@ -48,7 +48,7 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
 ## Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Damage that reduces a target's GD below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 

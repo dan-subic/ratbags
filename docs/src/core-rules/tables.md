@@ -64,7 +64,7 @@
 
 ### Gifts
 
-Determine your PC's Gift by cross-referencing their lowest ability score and their Hit Protection on the table below.
+Determine your PC's Gift by cross-referencing their lowest ability score and their Guard on the table below.
 
 <table-base-gifts/>
 
