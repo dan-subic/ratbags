@@ -4,7 +4,9 @@
 
 Dungeons are dark environments. Most native inhabitants of dungeons can see well in the dark, or have other special senses. PCs, on the other hand, usually require light sources to navigate dungeons.
 
-Portable light sources such as candles & torches are fairly dim. They shed bright light in a radius of just 5 feet, and dim light for a further 5 feet. Candles & torches last around 1 hour on average.
+* Torches are the baseline; they last around an hour and take 1 slot. They shed bright light in a radius of just 5 feet, and dim light for a further 5 feet. They last an hour on average.
+* Candles are light items, but are snuffed out when dropped or during vigorous activity (running, fighting, etc).
+* Lanterns are more expensive, but they hold candles securely so they don't go out easily.
 
 ## Dungeon Turns
 

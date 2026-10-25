@@ -58,4 +58,5 @@ Prices are in gold pieces.
 |Hourglass                                    |50              |Torch              |1         |
 |Incense (light)                              |10              |Toxin              |10        |
 |Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Large Trap                                   |20              |Yliaster           |75        |
+|Lantern                                      |30              |Yliaster           |75        |
+|Large Trap                                   |20              |                   |          |
