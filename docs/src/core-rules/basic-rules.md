@@ -27,6 +27,10 @@ Resting for about 10 minutes and having a drink of water restores lost GD but le
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover GD or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
 PCs can also gain Fatigue by **casting spells** or through events in the fiction.
 
+## Exposed
+Characters who are caught with their guard down or otherwise defenceless are **Exposed** and act as if they have 0GD.
+If they remedy their situation then they are no longer Exposed. Traps and ambushes typically catch victims Exposed.
+
 ## Armor
 Before calculating damage to GD, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
