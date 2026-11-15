@@ -24,7 +24,7 @@ Expand For Example
 Roll 1d6 to determine your PC's starting **Guard** (GD), which reflects their ability to avoid damage in combat.
 
 ## Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+Characters have a total of 10 inventory slots: six slots Worn on the body, and four slots Stowed (usually in their backpack). Worn items are usually visible to all. The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot. Slots are abstract and can be rearranged per the Referee's discretion (to allocate extra slots to the body, for example).
 
