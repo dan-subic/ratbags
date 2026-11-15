@@ -9,7 +9,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Referee calls for a save for appropriate players or NPCs.
 
 ## Turns
-The Referee will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+The Referee will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents, and each character may put a Worn item into each available hand.
 
 <details markdown="block">
   <summary>
@@ -58,6 +58,10 @@ Complete DEX and WIL loss renders the character unable to act until they are res
 
 ## Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They join the party as soon as possible in order to reduce downtime.
+
+## Using Items
+After combat starts, any character may equip a Worn item, but must make a DEX save to take an action that turn.
+A character may spend their entire turn (including movement) to equip a Stowed item, but must make a DEX save to avoid being Exposed that round.
 
 ## Detachments
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
