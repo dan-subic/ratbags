@@ -18,7 +18,7 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **GD** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after about 10 minutes of rest.
 
 **INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot. **Bulky** items take up two slots and are awkward or difficult to carry. **Light** items can share a slot with one other item.
+PCs have 10 inventory slots: six Worn on their body and four Stowed (in their backpack or otherwise). Most items take up a one slot. **Bulky** items take up two slots and are awkward or difficult to carry. **Light** items can share a slot with one other item.
 
 Filling all ten item slots reduces a PC to 0 GD. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
