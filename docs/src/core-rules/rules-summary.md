@@ -23,7 +23,10 @@ PCs have 10 inventory slots: four on their body and six in their backpack (which
 Filling all ten item slots reduces a PC to 0 GD. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
 **DEPRIVATION**  
-**Deprived** PCs cannot recover GD. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**Deprived** PCs cannot recover GD. If deprived for more than a day, they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+
+**EXPOSED**
+**Exposed** characters are treated as having 0GD.
 
 **HEALING**  
 A moment's rest and a swig of water will restore lost GD, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
